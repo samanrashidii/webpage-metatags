@@ -5,48 +5,28 @@ You should check webpage for below meta tags:
 
 - Open Graph / Facebook
 - Twitter Cards
-- Other Meta tags like description, author and ...
+- Other Meta Tags like description, author and ...
 
 You can check your project's meta tags with this link : [http://debug.iframely.com](http://debug.iframely.com)
 
-### Getting Started
+### Open Graph / Facebook
 
 ```
-git clone git@github.com:samanrashidii/gifme-react.git
+<meta property="og:locale" content="{your_page_language}" />
 ```
-
-Install and save dependencies:
-
 ```
-npm install --save --verbose
+<meta property="og:title" content="{your_page_title}" />
 ```
-
-Start the project:
-
 ```
-npm start
+<meta property="og:description" content="{your_page_description}">
 ```
-
-Build project:
-
 ```
-npm run build
+<meta property="og:url" content="{your_page_url}" />
 ```
-
-## Built With
-
-* React
-* JSX
-* Sass
-* Javascript
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am "Add some feature"`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request:  <span>Done</span>👍
+```
+<meta property="og:type" content="{type_of_your_service}" />
+```
+Click to read more about og:type: [https://ogp.me/#types](https://ogp.me/#types)
 
 ## Authors
 
@@ -55,8 +35,3 @@ npm run build
 - [Linkedin](https://www.linkedin.com/in/samanrashidii)
 - [Github](https://github.com/samanrashidii)
 - [Personal page](http://samanrashidi.com)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
