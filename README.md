@@ -16,9 +16,9 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 ```html
 <meta property="og:locale" content="{your_page_language}" />
 ```
-<br />
-
 > example: "en_gb"
+
+<br />
 
 ```html
 <meta property="og:title" content="{your_page_title}" />
