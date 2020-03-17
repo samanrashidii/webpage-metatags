@@ -28,7 +28,7 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 <br />
 
 ```html
-<meta property="og:description" content="{your_page_description}">
+<meta property="og:description" content="{your_page_description}" />
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
 
@@ -76,7 +76,7 @@ Ideal size for this banner is : 1200px x 630px
 <br />
 
 ```html
-<meta name="twitter:description" content="{your_page_description}">
+<meta name="twitter:description" content="{your_page_description}" />
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
 
@@ -99,7 +99,7 @@ Ideal size for this banner is : 280px x 150px
 <br />
 
 ```html
-<meta name="twitter:card" content="{your_twitter_card_type}">
+<meta name="twitter:card" content="{your_twitter_card_type}" />
 ```
 > example: "summary_large_image"
 
@@ -110,14 +110,14 @@ The card type, which will be one of “summary”, “summary_large_image”, �
 ### Other
 
 ```html
-<meta name="description" content="{your_page_description}">
+<meta name="description" content="{your_page_description}" />
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
 
 <br />
 
 ```html
-<meta name="author" content="{app_author}">
+<meta name="author" content="{app_author}" />
 ```
 > example: "Mafiabuzz Team"
 
