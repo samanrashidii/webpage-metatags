@@ -35,6 +35,7 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 <meta property="og:type" content="{type_of_your_service}" />
 ```
 > example: "website"
+
 Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
 
 ```
@@ -46,6 +47,7 @@ Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types
 <meta property="og:image" content="{your_page_banner_image_link}" />
 ```
 > example: "http://www.samanrashidi.com/samanrashidi-banner.jpg"
+
 Ideal size for this banner is : 1200px x 630px
 
 
