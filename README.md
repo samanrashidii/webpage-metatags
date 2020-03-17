@@ -9,6 +9,8 @@ You should check webpage for below meta tags:
 
 You can check your project's meta tags with this link : [http://debug.iframely.com](http://debug.iframely.com)
 
+<br />
+
 ### Open Graph / Facebook
 
 ```html
@@ -51,6 +53,7 @@ Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types
 Ideal size for this banner is : 1200px x 630px
 
 <br />
+
 ### Twitter Card
 
 ```html
@@ -83,6 +86,7 @@ Ideal size for this banner is : 280px x 150px
 The card type, which will be one of “summary”, “summary_large_image”, “app”, or “player”
 
 <br />
+
 ### Other
 
 ```html
@@ -95,6 +99,7 @@ The card type, which will be one of “summary”, “summary_large_image”, �
 ```
 > example: "Mafiabuzz Team"
 
+<br />
 
 ## Authors
 
