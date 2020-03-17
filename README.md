@@ -16,6 +16,8 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 ```html
 <meta property="og:locale" content="{your_page_language}" />
 ```
+<br />
+
 > example: "en_gb"
 
 ```html
@@ -23,15 +25,21 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 ```
 > example: "Mafiabuzz ~ Game Application"
 
+<br />
+
 ```html
 <meta property="og:description" content="{your_page_description}">
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
 
+<br />
+
 ```html
 <meta property="og:url" content="{your_page_url}" />
 ```
 > example: "https://www.mafiabuzz.app"
+
+<br />
 
 ```html
 <meta property="og:type" content="{type_of_your_service}" />
@@ -40,10 +48,14 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 
 Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
 
+<br />
+
 ```html
 <meta property="og:site_name" content="{your_project_name}" />
 ```
 > example: "Mafiabuzz"
+
+<br />
 
 ```html
 <meta property="og:image" content="{your_page_banner_image_link}" />
@@ -61,15 +73,21 @@ Ideal size for this banner is : 1200px x 630px
 ```
 > example: "Mafiabuzz ~ Game Application"
 
+<br />
+
 ```html
 <meta name="twitter:description" content="{your_page_description}">
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
 
+<br />
+
 ```html
 <meta name="twitter:url" content="{your_page_url}" />
 ```
 > example: "https://www.mafiabuzz.app"
+
+<br />
 
 ```html
 <meta name="twitter:image" content="{your_page_banner_image_link}" />
@@ -77,6 +95,8 @@ Ideal size for this banner is : 1200px x 630px
 > example: "https://www.mafiabuzz.app/mafiabuzz-twitter.jpg"
 
 Ideal size for this banner is : 280px x 150px
+
+<br />
 
 ```html
 <meta name="twitter:card" content="{your_twitter_card_type}">
@@ -93,6 +113,8 @@ The card type, which will be one of “summary”, “summary_large_image”, �
 <meta name="description" content="{your_page_description}">
 ```
 > example: "Mafiabuzz is a webapplication to setup and run mafia party game"
+
+<br />
 
 ```html
 <meta name="author" content="{app_author}">
