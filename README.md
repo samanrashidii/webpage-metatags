@@ -11,39 +11,39 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 
 ### Open Graph / Facebook
 
-```
+```html
 <meta property="og:locale" content="{your_page_language}" />
 ```
 > example: "en_gb"
 
-```
+```html
 <meta property="og:title" content="{your_page_title}" />
 ```
 > example: "Saman Rashidi ~ Front-end Developer"
 
-```
+```html
 <meta property="og:description" content="{your_page_description}">
 ```
 > example: "Hi, this is a description about Samanrashidii"
 
-```
+```html
 <meta property="og:url" content="{your_page_url}" />
 ```
 > example: "http://www.samanrashidi.com"
 
-```
+```html
 <meta property="og:type" content="{type_of_your_service}" />
 ```
 > example: "website"
 
 Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
 
-```
+```html
 <meta property="og:site_name" content="{your_project_name}" />
 ```
 > example: "Saman Rashidi"
 
-```
+```html
 <meta property="og:image" content="{your_page_banner_image_link}" />
 ```
 > example: "http://www.samanrashidi.com/samanrashidi-banner.jpg"
@@ -51,6 +51,44 @@ Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types
 Ideal size for this banner is : 1200px x 630px
 
 
+### Twitter Card
+
+```html
+<meta name="twitter:title" content="{your_page_title}" />
+```
+> example: "Saman Rashidi ~ Front-end Developer"
+
+```html
+<meta name="twitter:description" content="{your_page_description}">
+```
+> example: "Hi, this is a description about Samanrashidii"
+
+```html
+<meta name="twitter:url" content="{your_page_url}" />
+```
+> example: "http://www.samanrashidi.com"
+
+```html
+<meta name="twitter:image" content="{your_page_banner_image_link}" />
+```
+> example: "http://www.samanrashidi.com/samanrashidi.png"
+
+Ideal size for this banner is : 280px x 150px
+
+```html
+<meta name="twitter:card" content="summary_large_image">
+```
+> example: "summary_large_image"
+
+The card type, which will be one of “summary”, “summary_large_image”, “app”, or “player”
+
+
+### Other
+
+```html
+<meta name="description" content="{your_page_description}">
+```
+> example: "Hi, this is a description about Samanrashidii"
 
 
 ## Authors
