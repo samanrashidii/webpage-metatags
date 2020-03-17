@@ -79,7 +79,7 @@ Ideal size for this banner is : 1200px x 630px
 Ideal size for this banner is : 280px x 150px
 
 ```html
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="{your_twitter_card_type}">
 ```
 > example: "summary_large_image"
 
