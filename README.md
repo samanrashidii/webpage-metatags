@@ -1,6 +1,6 @@
 # Webpage Meta Tags
 
-List of important meta tags that should be in head of web page for better SEO result and social cards.
+List of important meta tags that should be in head of web page for better search result and social cards.
 You should check webpage for below meta tags:
 
 - Open Graph / Facebook
@@ -9,7 +9,7 @@ You should check webpage for below meta tags:
 
 You can check your project's meta tags with this link : [http://debug.iframely.com](http://debug.iframely.com)
 
-## Getting Started
+### Getting Started
 
 ```
 git clone git@github.com:samanrashidii/gifme-react.git
