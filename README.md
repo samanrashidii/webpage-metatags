@@ -14,19 +14,24 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 ```
 <meta property="og:locale" content="{your_page_language}" />
 ```
+ex: "en_gb"
 ```
 <meta property="og:title" content="{your_page_title}" />
 ```
+ex: "Saman Rashidi ~ Front-end Developer"
 ```
 <meta property="og:description" content="{your_page_description}">
 ```
+ex: "Hi, this is a description about Saman Rashidi"
 ```
 <meta property="og:url" content="{your_page_url}" />
 ```
+ex: "Hi, this is a description about Saman Rashidi"
 ```
 <meta property="og:type" content="{type_of_your_service}" />
 ```
-Click to read more about og:type: [https://ogp.me/#types](https://ogp.me/#types)
+ex: "website"
+> Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
 
 ## Authors
 
