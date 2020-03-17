@@ -14,24 +14,42 @@ You can check your project's meta tags with this link : [http://debug.iframely.c
 ```
 <meta property="og:locale" content="{your_page_language}" />
 ```
-ex: "en_gb"
+> example: "en_gb"
+
 ```
 <meta property="og:title" content="{your_page_title}" />
 ```
-ex: "Saman Rashidi ~ Front-end Developer"
+> example: "Saman Rashidi ~ Front-end Developer"
+
 ```
 <meta property="og:description" content="{your_page_description}">
 ```
-ex: "Hi, this is a description about Saman Rashidi"
+> example: "Hi, this is a description about Samanrashidii"
+
 ```
 <meta property="og:url" content="{your_page_url}" />
 ```
-ex: "Hi, this is a description about Saman Rashidi"
+> example: "http://www.samanrashidi.com"
+
 ```
 <meta property="og:type" content="{type_of_your_service}" />
 ```
-ex: "website"
-> Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
+> example: "website"
+Click to read more about this tag: [https://ogp.me/#types](https://ogp.me/#types)
+
+```
+<meta property="og:site_name" content="{your_project_name}" />
+```
+> example: "Saman Rashidi"
+
+```
+<meta property="og:image" content="{your_page_banner_image_link}" />
+```
+> example: "http://www.samanrashidi.com/samanrashidi-banner.jpg"
+Ideal size for this banner is : 1200px x 630px
+
+
+
 
 ## Authors
 
